@@ -33,4 +33,4 @@ services:
 
 
 volumes:
-  dev-dv-data:
+  dev-db-data:
